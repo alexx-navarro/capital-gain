@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="br.com.nubank.capitalgain.service.FileServiceTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2024-12-10T11:30:41" hostname="NOTEBOOK-GALAXY" time="1.933">
+  <properties/>
+  <testcase name="test checkIsFileAndRead when file does not exist()" classname="br.com.nubank.capitalgain.service.FileServiceTest" time="1.911"/>
+  <testcase name="test checkIsFileAndRead when file exists and is a file()" classname="br.com.nubank.capitalgain.service.FileServiceTest" time="0.012"/>
+  <testcase name="test checkIsFileAndRead when file exists but is a directory()" classname="br.com.nubank.capitalgain.service.FileServiceTest" time="0.002"/>
+  <testcase name="test checkIsFileAndRead when filePath is quoted()" classname="br.com.nubank.capitalgain.service.FileServiceTest" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
