@@ -26,3 +26,9 @@ replay_pid*
 # Gradle and Build folders
 .gradle/
 build/
+
+# .idea folder (general)
+.idea/
+
+# Include some files you may want to share (optional)
+!.idea/*.iml
